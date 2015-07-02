@@ -15,6 +15,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterTank.NuGet", "WaterTan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireCar", "FireCar\FireCar.csproj", "{C62F8C81-2A7C-4A17-8F72-32D63B88A373}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGets", "NuGets", "{103659CB-7077-424F-96DC-6116C3801433}"
+	ProjectSection(SolutionItems) = preProject
+		PreCreatedNuGetPackages\FireChassis.NuGet.1.0.0.nupkg = PreCreatedNuGetPackages\FireChassis.NuGet.1.0.0.nupkg
+		PreCreatedNuGetPackages\FireChassis.NuGet.1.0.1.nupkg = PreCreatedNuGetPackages\FireChassis.NuGet.1.0.1.nupkg
+		PreCreatedNuGetPackages\Ladders.NuGet.1.0.0.nupkg = PreCreatedNuGetPackages\Ladders.NuGet.1.0.0.nupkg
+		PreCreatedNuGetPackages\WaterTank.NuGet.1.0.0.nupkg = PreCreatedNuGetPackages\WaterTank.NuGet.1.0.0.nupkg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
