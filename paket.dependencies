@@ -1,0 +1,7 @@
+source https://nuget.org/api/v2
+
+nuget FireChassis.NuGet 1.0.1
+nuget Ladders.NuGet 1.0.0 framework: >= net45
+nuget NUnit 2.6.4 framework: >= net45
+nuget Nuget.CommandLine
+nuget WaterTank.NuGet 1.0.0 framework: >= net45

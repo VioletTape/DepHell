@@ -14,7 +14,6 @@ namespace FireCar
         [Test]
         public void testName() {
             var s = new Ladder().Get();
-
             Assert.That(s, Is.EqualTo("Fire chassis v1.0.1 and Ladder length 10"));
 
             var s1 = new WaterTank.WaterTank().Get();
